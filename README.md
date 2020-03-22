@@ -1,10 +1,6 @@
 # om-tut
 
-FIXME: Write a one-line description of your library/project.
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Some code I wrote while following the basic om tutorials [here](https://github.com/omcljs/om/wiki/Basic-Tutorial)
 
 ## Setup
 
